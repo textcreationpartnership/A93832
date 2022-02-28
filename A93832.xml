@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Phinehas's zeal in execution of judgement. Or, A divine remedy for Englands misery. A sermon preached before the Right Honourable House of Lords in the Abby of Westminster, at their late solemne monethly fast, October 30. 1644. By Edmund Staunton D.D. pastour of Kingston upon Thames in the countie of Surrey. A member of the Assembly of Divines.</title>
+            <author>Staunton, Edmund, 1600-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93832</idno>
+            <idno type="STC">Wing S5341</idno>
+            <idno type="STC">Thomason E18_19</idno>
+            <idno type="STC">ESTC R209989</idno>
+            <idno type="EEBO-CITATION">99868832</idno>
+            <idno type="PROQUEST">99868832</idno>
+            <idno type="VID">121188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121188)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E18[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Phinehas's zeal in execution of judgement. Or, A divine remedy for Englands misery. A sermon preached before the Right Honourable House of Lords in the Abby of Westminster, at their late solemne monethly fast, October 30. 1644. By Edmund Staunton D.D. pastour of Kingston upon Thames in the countie of Surrey. A member of the Assembly of Divines.</title>
+                  <author>Staunton, Edmund, 1600-1671.</author>
+               </titleStmt>
+               <extent>[6], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.L. for Christopher Meredith, at the sign of the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon to the Right Honorable house of Lords, on the monethly fast, October 30. 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121188:1" rendition="simple:additions"/>
+            <p>PHINEHAS'S ZEAL IN EXECVTION OF IVDGEMENT. OR, A DIVINE REMEDY FOR ENGLANDS Miſery. A SERMON PREACHED before the Right Honourable Houſe of Lords in the Abby of <hi>Weſtminſter,</hi> at their late Solemne monethly Faſt, <hi>October</hi> 30. 1644.</p>
+            <p>By <hi>Edmund Staunton</hi> D. D. Paſtour of <hi>Kingſton</hi> upon Thames in the Countie of <hi>Surrey.</hi>
+            </p>
+            <p>A Member of the Aſſembly of Divines.</p>
+            <p>LONDON, Printed by <hi>I. L.</hi> for <hi>Chriſtopher Meredith,</hi> at the ſign of the <hi>Crane</hi> in Pauls Church-yard. 1645.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:121188:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Mercurii</hi> 30 Octob. 1644.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered by the Lords in Parliament: That this Houſe doth here<g ref="char:EOLhyphen"/>by returne thanks to Doctor <hi>Staunton,</hi> for his great pains taken in his Sermon preached by him this day, before their Lordſhips in the Abby Church <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> it being the day of the monethly Faſt: And this Houſe doth deſire him to Print and publiſh the ſame. And laſtly, it is Ordered that none ſhall preſume to Print or reprint his ſaid Sermon, without being Authorized under the hand of the ſaid Doctor <hi>Staunton.</hi>
+            </p>
+            <closer>
+               <signed>Io. Brown. Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="privilege">
+            <p>I Authorize CHRISTOPHER MEREDITH to print my Sermon.</p>
+            <closer>
+               <signed>EDMUND STAUNTON.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:121188:2"/>
+            <head>TO THE RIGHT HONORA<g ref="char:EOLhyphen"/>BLE HOVSE OF LORDS Aſſembled in Parliament.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Hort warning is ſome apo<g ref="char:EOLhyphen"/>logie for ſlight performan<g ref="char:EOLhyphen"/>ces, and what I cannot far<g ref="char:EOLhyphen"/>ther fairely <hi>excuſe,</hi> your no<g ref="char:EOLhyphen"/>ble Candor can freely <hi>par<g ref="char:EOLhyphen"/>don.</hi> The Citie Petiti<g ref="char:EOLhyphen"/>on for execution of Iudgement, <note place="margin">
+                  <hi>Ordin. Octo.</hi> 24. 1644.</note> and your Gol<g ref="char:EOLhyphen"/>den <hi>Ordinance,</hi> for giving no quarter to Iriſh, or Papiſts borne in Ireland, taken in Armes againſt the Parliament; led my thoughts to this Argument, as ſeaſonable, if not as neceſſary. <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Gladi<g ref="char:EOLhyphen"/>tus, à vaſtan<g ref="char:EOLhyphen"/>do dictus, à</hi> 
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>deva<g ref="char:EOLhyphen"/>ſtatus fuit.</hi>
+               </note> The <hi>Sword</hi> like it ſelfe,
+<pb facs="tcp:121188:3"/> layeth waſte and deſolate; <hi>bleeding</hi> Eng<g ref="char:EOLhyphen"/>land groaneth and cryeth, <note place="margin">Ierm. 47.6.</note> 
+               <hi>O thou ſword of the Lord, how long will it be ere thou be quiet? put up thy ſelfe into thy ſcab<g ref="char:EOLhyphen"/>bard, reſt and be ſtill:</hi> Many Soveraigne <hi>ſword-quieting</hi> Remedies have been recom<g ref="char:EOLhyphen"/>mended to your <hi>Honours:</hi> as <hi>faith</hi> acted, <hi>prayer</hi> fervent, <hi>Humiliation</hi> unfained, <hi>re<g ref="char:EOLhyphen"/>formation</hi> reall, of perſons and families. And this of <hi>executing Iudgement,</hi> hath in it an healing vertue alſo. Though when all is done, Chriſt alone muſt dry up our bloudy iſsues, and that <hi>living Corner-ſtone,</hi> muſt be our <hi>blood-ſtone.</hi> It was your <hi>Honours</hi> juſt at<g ref="char:EOLhyphen"/>tempt long agoe, to bring <hi>delinquents</hi> to con<g ref="char:EOLhyphen"/>digne <hi>puniſhment,</hi> the oppoſition whereof by an adverſe partie, hath occaſioned theſe Civill warres, and inteſtine broyles in the Nation, ſo that the Caſe of the <hi>Iſraelites</hi> oppoſed by the <hi>Benjamites,</hi> runs <hi>Parallel</hi> with our preſent quarrels; The <hi>Iſraelites</hi> had a <hi>gene<g ref="char:EOLhyphen"/>rall Aſſembly,</hi> a kind of <hi>Parliament,</hi> where<g ref="char:EOLhyphen"/>to complaint is made by the <hi>Levite,</hi> 
+               <note place="margin">Iud. 19. laſt.</note> againſt the <hi>men of Gibeah</hi> for their horrid, their <hi>non<g ref="char:EOLhyphen"/>ſuch</hi> delinquencie. Hereupon the Aſſembly
+<pb facs="tcp:121188:3"/> 
+               <hi>Orders</hi> and <hi>Decreeth</hi> their puniſhment, ſends out <hi>Meſſengers</hi> to the <hi>Benjamites,</hi> 
+               <note place="margin">Iud. 20.</note> and faire<g ref="char:EOLhyphen"/>ly <hi>demands</hi> that thoſe <hi>Children</hi> of <hi>Belial</hi> might be by them <hi>delivered up to Iuſtice;</hi> but the <hi>Benjamites would not hearken to their Brethren the Iſraelites;</hi> take up Arms rather to protect their Delinquents: and thus the <hi>war began,</hi> which for a while <hi>went</hi> on <hi>du<g ref="char:EOLhyphen"/>biouſly,</hi> for the <hi>Iſraelites</hi> (though friends to Truth and Iuſtice) loſt <hi>in two battailes for<g ref="char:EOLhyphen"/>tie thouſand men;</hi> yet the warre <hi>ended ſuc<g ref="char:EOLhyphen"/>ceſſefully.</hi> God directed the <hi>Iſraelites</hi> to a <hi>Stratagem,</hi> whereby <hi>all the Benjamites ex<g ref="char:EOLhyphen"/>cept ſix hundreth were deſtroyed.</hi> And all this may <hi>Incourage</hi> your Honours to <hi>work</hi> for, and <hi>wait</hi> on God. And when perhaps ſome <hi>elſe-where Nobles,</hi> may be ſolemni<g ref="char:EOLhyphen"/>zing <note n="a" place="margin">The So<g ref="char:EOLhyphen"/>lemn Feſti<g ref="char:EOLhyphen"/>vals. <hi>Decemb.</hi> 25.</note> theſe <hi>approaching Idolized Feſtivals,</hi> with Playes and Interludes, which in <note n="b" place="margin">
+                  <hi>Ludorum ſcenicorum delicata eſt inſania. Auſt. lib.</hi> 1. <hi>de Civ. Dei. cap.</hi> 32.</note> 
+               <hi>Auſtins</hi> Language is a <hi>delicate madneſſe,</hi> Your <hi>Ho<g ref="char:EOLhyphen"/>nours,</hi> I hope, will be <hi>faſting, praying, hea<g ref="char:EOLhyphen"/>ring,</hi> and <hi>receiving the word with all readines of mind,</hi> which will be your <note n="c" place="margin">Act. 17.11. <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, more noble. <hi>non genere, ſed virtute &amp; pietate nobiles, Bez. in Loc.</hi>
+               </note> 
+               <hi>Berean Nobilitie;</hi> And though others may be hatch<g ref="char:EOLhyphen"/>ing deviliſh <hi>deſignes</hi> for the pouring out of
+<pb facs="tcp:121188:4"/> 
+               <hi>blood Innocent;</hi> Your <hi>Honours</hi> will in<g ref="char:EOLhyphen"/>gage your Selves in due <hi>execution of Iudge<g ref="char:EOLhyphen"/>ment;</hi> and ſo offer to God a <note n="*" place="margin">Iſa. 34.5,6.</note> 
+               <hi>ſacrifice</hi> of <hi>blood nocent.</hi> I know there may be many <hi>Politick Reaſonings</hi> in the Caſe, but when God giveth out a <hi>Command,</hi> he expecteth <hi>downright Dutie,</hi> not any ſubtle Diſpute. A due and Regular execution of Iudgement, will gild over your <hi>Coates</hi> of <hi>Honour,</hi> and as it were <hi>Royalize</hi> your <hi>blood</hi> already <hi>no<g ref="char:EOLhyphen"/>ble.</hi> The <hi>Heathens</hi> got a name, a kinde of immortalitie, for their morall endowments; <hi>Socrates</hi> for his <hi>wiſdome, Ariſtides</hi> for <hi>Iu<g ref="char:EOLhyphen"/>ſtice, Cicero</hi> for his <hi>eloquence,</hi> and <hi>Cato</hi> for <hi>gravitie,</hi> &amp;c. And your <hi>Lordſhips</hi> zeale for God in execution of Iudgement, will make poſteritie to mention your Names and Families with Honour. I am</p>
+            <closer>
+               <signed>Your Lordſhips to ſerve you in and for the Lord of Lords: EDMUND STAUNTON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:121188:4"/>
+            <head>A SERMON PREACHED TO the Right Honourable Houſe of Lords on the Monethly Faſt, <date>
+                  <hi>October</hi> 30. 1644.</date>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>Pſal. 106. verſ. 30.</bibl>
+                  <p>Then ſtood up Phinehas and executed judgement, and ſo the plague was ſtayed.</p>
+               </q>
+            </epigraph>
+            <p>
+               <note place="margin" type="runSum">Coherence.</note> 
+               <seg rend="decorInit">H</seg>Ere are three verſes together, which holds forth a three<g ref="char:EOLhyphen"/>fold eſtate of Iſrael.</p>
+            <list>
+               <item>1. Sinning Iſrael; <hi>They joyned themſelves unto Baal<g ref="char:EOLhyphen"/>peor, and eate the ſacrifices of the dead,</hi> verſ. 28.</item>
+               <item>2. Plagued Iſrael; <hi>They provoked him to anger with their inventions: and the plague brake in upon them,</hi> verſ. 29.</item>
+               <pb n="2" facs="tcp:121188:5"/>
+               <item>3. Relieved Iſrael. <hi>Then ſtood up Phinehas, and executed iudgement: and</hi> ſo <hi>the plague was ſtayed.</hi> verſ. 30.</item>
+            </list>
+            <p n="1">
+               <note place="margin" type="runSum">1. Sinning Iſrael.</note> 1. Iſraels <hi>Sinne</hi> was twofold. Firſt, <hi>Corpo<g ref="char:EOLhyphen"/>rall</hi> uncleanneſſe, <hi>They committed whoredome with the daughters of Moab.</hi> Numb. 25.1. Se<g ref="char:EOLhyphen"/>condly, <hi>Spirituall</hi> uncleanneſſe, <hi>The people did eate and bowed down to their gods.</hi> verſ. 2. <hi>They ioyned themſelves to Baal-peor, and eate the ſacrifice of the dead,</hi> to wit, <hi>dead Iſrael, of dead ſacrifices to dead gods,</hi> ſo the Pſalmiſt, <hi>verſ.</hi> 28.</p>
+            <p>
+               <note place="margin" type="runSum">Obſervation.</note> Hence obſerve, that <hi>Corporall and ſpirituall uncleanneſſe, uſually goe together:</hi> adultery and idolatry are ſiſter ſins; and upon this dou<g ref="char:EOLhyphen"/>ble right of double uncleanneſſe, <hi>Rome</hi> chal<g ref="char:EOLhyphen"/>lengeth that title of <hi>Mother of</hi> 
+               <note n="*" place="margin">Or forni<g ref="char:EOLhyphen"/>cations. <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>harlots and abominations of the earth,</hi> Rev. 17.5.</p>
+            <p n="2">
+               <note place="margin" type="runSum">2. Plagued Iſrael.</note> 2. Gods plaguing of Iſrael hath two de<g ref="char:EOLhyphen"/>grees or ſteps in it. 1. <hi>The kindling</hi> of it in Gods wrath, <hi>they provoked him to anger with there inventions.</hi> 2. <hi>The flaming</hi> of it in Iſra<g ref="char:EOLhyphen"/>els miſery, <hi>the plague brake in upon them,</hi> verſ. 29.</p>
+            <p>For clearing the hiſtory which we have at
+<pb n="3" facs="tcp:121188:5"/> large, <hi>Numb.</hi> 25. and the opening of the text, theſe <hi>quere's</hi> muſt be anſwered.</p>
+            <p n="1">
+               <note place="margin" type="runSum">1. <hi>Quaere.</hi>
+               </note> 1. <hi>What kinde of plague this was.</hi> For an<g ref="char:EOLhyphen"/>ſwer, ſome thinke it was the plague of <hi>peſti<g ref="char:EOLhyphen"/>lence,</hi> becauſe the word plague is uſually ſo taken: others conceive it rather to be a plague <hi>of ſlaughters</hi> by the hand of <hi>Moſes,</hi> who had <hi>command from God to take all the heads of the people,</hi> (to wit, the ringleaders to idolatry) <hi>and to hang them up before the Lord againſt the Sunne.</hi> Numb. 25.4. and by the <hi>Iudges,</hi> who had command from <hi>Moſes, To ſlay every one his men that were joyned unto Baal peor,</hi> verſ. 5. And probably this was the plague the Pſal<g ref="char:EOLhyphen"/>miſt ſpeaks of, partly, becauſe the word is genericall, implying many kinds or ſpecies, and is ſometimes particularly applyed to this by <hi>ſlaughters.</hi> So there <hi>was a great ſlaughter or plague among the people,</hi> 1 Sam. 4.17. partly, becauſe it ſutes beſt with the <note n="*" place="margin">Numb. 25.</note> hiſtory, which mentions this plague by <hi>ſlaughter,</hi> not that by <hi>peſtilence.</hi>
+            </p>
+            <p n="2">
+               <note place="margin" type="runSum">2. <hi>Quaere.</hi>
+               </note> 2. <hi>Quere</hi> is this, The plague being great, for it <hi>brake in upon them</hi> as a <hi>flood</hi> of waters, or as <hi>an hoaſt</hi> of armed men, the queſtion is,
+<pb n="4" facs="tcp:121188:6"/> 
+               <hi>how great this plague was:</hi> For anſwer, aske <hi>Moſes,</hi> he ſaith, thoſe that <hi>died in the plague were twentie and foure thouſand,</hi> Numb. 25.9. aske <hi>Paul</hi> and he ſaith, <hi>There fell three and twentie thouſand,</hi> 1 Corinth. 10.8. theſe va<g ref="char:EOLhyphen"/>rying calculations, ſome reconcile thus; <hi>Paul</hi> ſpeaks in <hi>generals,</hi> relating to the ſtory, <hi>Num<g ref="char:EOLhyphen"/>bers</hi> 25. <hi>Moſes</hi> ſpeaks more <hi>particularly,</hi> being the Hiſtorian: others take notice of the <hi>dou<g ref="char:EOLhyphen"/>ble ſlaughter,</hi> one by the <hi>Iudges</hi> with the <hi>ſword,</hi> wherein probably were cut off <hi>about three and twentie thouſand,</hi> and this is <hi>Pauls</hi> num<g ref="char:EOLhyphen"/>ber, another by <hi>Moſes,</hi> with the <hi>halter hang<g ref="char:EOLhyphen"/>ing up the heads of the people,</hi> probably <hi>about a thouſand,</hi> which being added to the former, makes up <hi>the foure and twentie thouſand,</hi> the number ſet down by <hi>Moſes.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">3. <hi>Quaere.</hi>
+               </note> A third <hi>Quere</hi> is this, <hi>Why</hi> and <hi>how</hi> the <hi>execution of judgement</hi> ſhould be called <hi>a plague in Iſrael;</hi> it ſeemes rather a bleſsing then a curſe in Iſrael. For Anſwer, What was done by <hi>Moſes</hi> and the Iudges, as it was the cutting off of ſo many Idolaters and Adulte<g ref="char:EOLhyphen"/>rers, ſo it was a <hi>bleſsing;</hi> as there was the taking away of ſo many mens lives, ſo it was
+<pb n="5" facs="tcp:121188:6"/> a ſad thing, a kinde <hi>of plague</hi> in Iſrael, eſpecially, all theſe <hi>falling in one day,</hi> 1 Cor. 10.8. as for inſtance, ſhould the Parlia<g ref="char:EOLhyphen"/>ment put to death an hundred, or but half an hundred of the Traytors and Rebels againſt the State in a day, it would in one ſenſe be a ſad ſpectacle, a kinde of plague, but in another a bleſsing in our Iſrael.</p>
+            <p>
+               <note place="margin" type="runSum">3. Releeved Iſrael.</note> Thirdly, for the <hi>releeving</hi> of Iſrael, that is brought about by the <hi>execution of judge<g ref="char:EOLhyphen"/>ment: Then ſtood up Phinehas and executed judgement, and then the plague was ſtayed, verſ.</hi> 30. And here two doubts more muſt be anſwered.</p>
+            <p>
+               <note place="margin" type="runSum">1. Doubt Anſwered.</note> Firſt, What <hi>Phinehas</hi> had to do in exe<g ref="char:EOLhyphen"/>cution of Iudgement, who for his <hi>pede<g ref="char:EOLhyphen"/>gree</hi> was the <hi>ſonne of Eleazar, the ſonne of Aaron the Prieſt, Numb.</hi> 25.7. for his <hi>of<g ref="char:EOLhyphen"/>fice</hi> at the moſt but <hi>praefectus ſacris</hi> (as <hi>Mollerus</hi>) <note place="margin">
+                  <hi>Mol. in v.</hi> 31.</note> a Ruler in the Sanctuary, but in publique adminiſtration of civill Iu<g ref="char:EOLhyphen"/>ſtice, he was <hi>privatus, è plebe unus,</hi> a pri<g ref="char:EOLhyphen"/>vate man, one among the people, ſo that this act of his might ſeeme not to be <hi>zeal,</hi>
+               <pb n="6" facs="tcp:121188:7"/> but <hi>murther</hi> rather, and that in a <hi>high de<g ref="char:EOLhyphen"/>gree,</hi> for there was ſhedding blood, noble, if not royall blood, <hi>Zimri</hi> being <hi>the ſonne of Salu, a prince of a chiefe houſe among the Simeonites, Numb.</hi> 25.14. and withall his ſlaying them in the act of their ſinning might be at once a killing of their bodies &amp; ſouls alſo, and ſo double murther: For Anſwer, it is cleare that this act of <hi>Phine<g ref="char:EOLhyphen"/>as was counted unto him for righteouſneſſe,</hi> to wit, as a <note n="*" place="margin">
+                  <hi>Non loqui<g ref="char:EOLhyphen"/>tur de iuſti<g ref="char:EOLhyphen"/>tia perſonae, ſedoperis. Mol.</hi>
+               </note> 
+               <hi>righteous act</hi> unto all generati<g ref="char:EOLhyphen"/>ons for evermore, <hi>verſ.</hi> 31. And ſome Di<g ref="char:EOLhyphen"/>vines give this reaſon for the clearing of him, that he did it by <hi>ſpeciall inſtinct,</hi> and by a <hi>motion extraordinary, </hi> 
+               <note place="margin">
+                  <hi>Calv. in Lo<g ref="char:EOLhyphen"/>cum.</hi>
+               </note> and by a holy pang of zeale, yet this (by the way) is no conſtant rule for us to walke by.</p>
+            <p>
+               <note place="margin" type="runSum">2. Doubt an<g ref="char:EOLhyphen"/>ſwered.</note> A ſecond Doubt is, Why the pacifying of Gods wrath, and the ſtaying of the plague is aſcribed to this act of <hi>Phineas,</hi> having a bluſh of irregularitie in it, rather then to the acts of <hi>Moſes</hi> and the Iudges, which were by expreſſe command from God and very regular; For Anſwer, the acts of <hi>Moſes</hi> and the Iudges <note place="margin">Numb. 25.4.</note>
+               <hi>ſhaked the fire</hi>
+               <pb n="7" facs="tcp:121188:7"/> of Gods wrath, that of <hi>Phineas quenched</hi> it; again, the acts of <hi>Moſes</hi> and the Iudges had a riſe from a <hi>ſparke,</hi> that of <hi>Phineas</hi> from a <hi>flame of zeale</hi> and holy indignati<g ref="char:EOLhyphen"/>on in him; hence the Lord who is exceed<g ref="char:EOLhyphen"/>ingly taken with the ſprings and roots of actions, ſets the crowne upon the head of <hi>Phineas.</hi> Theſe things I lay down as <hi>probable,</hi> not as <hi>demonſtrative.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">Diviſion of the words.</note> The Text hath in it foure particulars.</p>
+            <p>Firſt, The <hi>quando,</hi> The circumſtance of time, <hi>then.</hi>
+            </p>
+            <p>Secondly, The <hi>quis,</hi> The agent, <hi>Phi<g ref="char:EOLhyphen"/>neas.</hi>
+            </p>
+            <p>Thirdly, The <hi>quid,</hi> What he doth, his acts are double. Firſt, he <hi>ſtood up,</hi> or, <hi>aroſe up,</hi> 
+               <note place="margin">Numb. 25.7.</note> being quickned by a ſpirit of zeale within him. Secondly, he executed judge<g ref="char:EOLhyphen"/>ment or prayed, ſo ſome render it, it may be both.</p>
+            <p>Fourthly, The <hi>quid inde,</hi> the fruits and iſſues. Firſt, the wrath of God was pacified, as it is implyed in the <hi>Pſalme,</hi> and expreſſed in <hi>Numbers.</hi> 
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>in Pih. iudicavit.</hi> 
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>in Hithp. Ora<g ref="char:EOLhyphen"/>vit. Cal. Mol.</hi> Numb. 25.11.</note> Secondly, the <hi>plague</hi> was <hi>ſtayed.</hi>
+            </p>
+            <pb n="8" facs="tcp:121188:8"/>
+            <p>
+               <note place="margin" type="runSum">1. The <hi>Quando.</hi> The time.</note> Firſt, for the <hi>quando,</hi> or the circum<g ref="char:EOLhyphen"/>ſtance of time, it falles under a threefold conſideration.</p>
+            <p>Firſt, <hi>then,</hi> when ſinne came to a height of impudency, <hi>Zimri</hi> and <hi>Cosby</hi> not bluſh<g ref="char:EOLhyphen"/>ing to act uncleanneſſe <note place="margin">Numb. 25.6.</note> 
+               <hi>in the ſight of Moſes, and in the ſight of all the Congregation of the children of Iſrael, who were weeping before the doore of the Tabernacle of the Congrega<g ref="char:EOLhyphen"/>tion:</hi> As it were on a Day of Solemn Hu<g ref="char:EOLhyphen"/>miliations.</p>
+            <p>
+               <note place="margin" type="runSum">Obſervation.</note> Hence obſerve, that <hi>when ſinne is grown impudent, that is Gods time to cut off a ſin<g ref="char:EOLhyphen"/>ner. Put ye in the ſicle, for the harveſt is ripe; come get you down for the preſſe is full, the fats overflow, for their wickedneſſe is great,</hi> ſaith the Lord by his Prophet <hi>Ioel.</hi>
+               <note place="margin">Ioel 3.13.</note>
+            </p>
+            <p>Secondly, when <hi>Zimri</hi> and <hi>Cosby</hi> were in the act of ſinning.</p>
+            <p>
+               <note place="margin" type="runSum">Obſervation.</note> Hence obſerve, how <note place="margin">Dan. 5.23,24,25.</note> 
+               <hi>the vengeance of God oft ſeiſeth on the ſinner in the very act of ſinning.</hi> So <hi>Belſhazzer</hi> is met withall in his <hi>carowſing act,</hi> 
+               <note place="margin">Act. 5.1,2,3,4.</note> 
+               <hi>Ananias</hi> and <hi>Saphira</hi> in their <hi>lying</hi> act leavened with ſacriledge, &amp; <hi>Herod</hi> in his <hi>proud</hi> act, taking in the ap<g ref="char:EOLhyphen"/>plauſe
+<pb n="9" facs="tcp:121188:8"/> of the people, crying, It is <hi>the voice of a God, and not of a man:</hi> 
+               <note place="margin">Act. 12.22,23.</note> for the <hi>Angell</hi> of the <hi>Lord ſmote him</hi> as ſome think, with an audible blow, <note place="margin">
+                  <hi>Lorinus in Locum.</hi>
+               </note> however a blow fatall and deadly, for <hi>becauſe he gave not God the glory, he was eaten up of wormes</hi> (of wormes a<g ref="char:EOLhyphen"/>bove ground) and <hi>gave up the ghoſt.</hi>
+            </p>
+            <p>Thirdly, <hi>Then,</hi> when <hi>Moſes</hi> and the Iudges were cutting off the troublers of Iſ<g ref="char:EOLhyphen"/>rael, by thouſands, in a way of juſtice.</p>
+            <p>
+               <note place="margin" type="runSum">Obſervation.</note> Hence obſerve, <hi>the Magiſtrates due and regular execution of juſtice, bindeth not up Gods hands from pouring out of his wrath up<g ref="char:EOLhyphen"/>on his enemies, in wayes ſomething ſtrange and extraordinary.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">2. The <hi>quis. Phinehas.</hi>
+               </note> Secondly, For the <hi>quis,</hi> the agent, <hi>Phi<g ref="char:EOLhyphen"/>nehas</hi> is the man that executes judgment, a man unthought of for ſuch a ſervice: <note place="margin" type="runSum">Obſervation.</note> hence obſerve that <hi>when God hath work to do, he can finde out workmen,</hi> a <hi>Phinehas</hi> with zeale in his heart and a javelin in his hand, to thruſt through the proudeſt <hi>Zimri's</hi> and <hi>Cosbi's,</hi> the moſt daring ſinners.</p>
+            <p>
+               <note place="margin" type="runSum">3. The <hi>quid.</hi> 4. <hi>Quid inde;</hi> together.</note> I ſhall put the third and the fourth, the <hi>quid</hi> and the <hi>quid inde,</hi> both together,
+<pb n="10" facs="tcp:121188:9"/> what he doth and what comes of it, he executeth judgement, and thereupon wrath was pacified and the plague ſtayed.</p>
+            <p>
+               <note place="margin" type="runSum">Obſervation.</note> Hence obſerve, <note place="margin">Numb. 25.11.</note> 
+               <hi>that execution of judge<g ref="char:EOLhyphen"/>ment, is Gods way to paciſie Gods wrath and to ſtay his iudgements.</hi>
+            </p>
+            <p>The confirmation hereof I ſhall lay down in three Arguments.</p>
+            <p>
+               <note place="margin" type="runSum">1. Argument. <hi>A Remotio<g ref="char:EOLhyphen"/>ne cauſae.</hi>
+               </note> Firſt, The <hi>removall of the Cauſe</hi> takes away the effect alſo, execution of judge<g ref="char:EOLhyphen"/>ment removes the ſinne or the ſinner, and therefore takes away Gods wrath and judgement; Whileſt <hi>Achan</hi> lives, Iſrael is <hi>troubled; ſtone Achan, burne the</hi> accurſed wedge of gold, the ſilver, and the Baby<g ref="char:EOLhyphen"/>loniſh garment, &amp;c. <hi>and the Lord turnes from the fierceneſſe of his anger, Ioſh.</hi> 7. laſt. <hi>Whileſt Ionah is</hi> in the ſhip, the <hi>Searageth,</hi> caſt him over board, and there is a calme preſently, <hi>Ionah</hi> 1.15.</p>
+            <p>
+               <note place="margin" type="runSum">2. Argument. <hi>A Maiore.</hi>
+               </note> The ſecond Argument runs thus; Exe<g ref="char:EOLhyphen"/>cution of judgement that <hi>a vertus</hi> in it, <hi>to turne a curſe into a bleſsing,</hi> therefore much more to prevent a curſe or procure a bleſsing; inſtance the caſe <hi>of Levi,</hi> his
+<pb n="11" facs="tcp:121188:9"/> curſe was <hi>to be divided in Iacob, and ſcatter<g ref="char:EOLhyphen"/>ed in Iſrael, Geneſis</hi> 49. <hi>verſe</hi> 7. But the Levites in an after ſtory ſhewed them<g ref="char:EOLhyphen"/>ſelves <hi>zealous</hi> in execution of judge<g ref="char:EOLhyphen"/>ment upon the Idolaters, who had wor<g ref="char:EOLhyphen"/>ſhipped the <hi>Molten Calfe, Moſes ſtood in the Gate of the Campe,</hi> and <hi>ſaid, Who is on the Lords ſide? let him come to me:</hi> and <hi>all the ſonnes of Levi gathered themſelves together unto him,</hi> and <hi>he ſaid unto them, Thus ſaith the Lord God of Iſrael, put every man his ſword by his ſide,</hi> and <hi>goe in and out from gate to gate throughout the Camp and ſlay e<g ref="char:EOLhyphen"/>very man his Brother, and every man his Com<g ref="char:EOLhyphen"/>panion, and every man his neighbour: and the children of Levi did according to the word of Moſes, and there fell of the people that day a<g ref="char:EOLhyphen"/>bout three thouſand men;</hi> thereupon God <hi>beſtowed</hi> upon the <hi>Levites a bleſsing</hi> that day, <hi>Exodus</hi> 32.26,27,28,29. What bleſ<g ref="char:EOLhyphen"/>ſing? this, that the <hi>Levites ſhould be given to the Prieſts for the Service of the Taberna<g ref="char:EOLhyphen"/>cle of the Congregation, Numb.</hi> 3.6,7. And thus their ſcattering is made no curſe, but a blesſing, an honour to <hi>Levi,</hi> and a mercy
+<pb n="12" facs="tcp:121188:10"/> to all Iſrael: <hi>Levi unſcattered</hi> had been as <hi>Candles</hi> in the <hi>pound,</hi> dark &amp; uſeles, but the <hi>Levites</hi> thus <hi>ſcattered,</hi> are ſet up as ſo many <hi>ſhining lights</hi> through all the roomes of the houſe of Iſrael. <hi>Levi unſcattered</hi> had been as ſo many <hi>ſchollers</hi> cloyſtered toge<g ref="char:EOLhyphen"/>ther in the <hi>Academy,</hi> 
+               <note place="margin">So Levi. Deut. 33.10.</note> but the <hi>Levites</hi> thus <hi>ſcattered,</hi> are as ſo many pious able <hi>Di<g ref="char:EOLhyphen"/>vines,</hi> diſperſed up and down through a <hi>Kingdom,</hi> a blesſing to a <hi>Nation.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">3. Argument. <hi>Ab exemplo divino.</hi>
+               </note> A third Argument is from <hi>Gods own ex<g ref="char:EOLhyphen"/>ample,</hi> who beſt knowes the way for the pacifying of his own wrath, &amp; he quiets himſelf in his executions of judgment; the <note place="margin">Gen. 7. and 8. Chapters.</note> 
+               <hi>old world</hi> ſinnes, God is angry, the world is drowned, and God pacified. So alſo in the Prophet <hi>Iſaiah Chap.</hi> 1. <hi>verſ.</hi> 24. <hi>The Lord of hoſts the mighty one of Iſrael</hi> ſaith, <hi>Ah, I will eaſe me of mine Aduerſaries, and a<g ref="char:EOLhyphen"/>venge me of mine Enemies.</hi> Gods <hi>avenging himſelf</hi> is his <hi>ſelf-eaſing.</hi> Again thus in the Prophet <hi>Zachary Chap.</hi> 6. <hi>verſ.</hi> 8. The An<g ref="char:EOLhyphen"/>gell cryes unto him, ſaying, <hi>Behold theſe that go towards the North country have quiet<g ref="char:EOLhyphen"/>ed my ſpirit in the North country.</hi> Whether
+<pb n="13" facs="tcp:121188:10"/> 
+               <hi>the black horſes in the viſion were Angells, or Meeds and Perſians,</hi> laying waſt the Babylonians which lay <hi>North from Iudea,</hi> it may be queſtioned, but this is certaine that Iudgment was executed, and thereby the ſpirit of the Lord quieted.</p>
+            <p>
+               <note place="margin" type="runSum">The Appli<g ref="char:EOLhyphen"/>cation.</note> 
+               <note place="margin" type="runSum">1. Information.</note> For application in the firſt place, this truth <hi>informs</hi> us who are <hi>friends,</hi> who <hi>ene<g ref="char:EOLhyphen"/>mies</hi> to our <hi>Engliſh Iſrael,</hi> who for the pa<g ref="char:EOLhyphen"/>cifying of wrath, and the removall of judg<g ref="char:EOLhyphen"/>ments; thoſe who advance and help on the execution of Iudgme<g ref="char:cmbAbbrStroke">̄</g>t are our friends, they who hinder are our enemies; ob<g ref="char:EOLhyphen"/>ſtructers of juſtice are State-traitors; the <hi>weedes and flags</hi> that ſtop the rivers make the <hi>flouds riſe,</hi> the waters to overflow; and drown the Countries, and the damming up of the ſtreames of Iuſtice makes the wrath of God to ariſe as a mighty flood of waters, and deluge like to drowne a Nation. God ſeemes to cry in <hi>England</hi> as once <hi>Iehu</hi> did in <hi>Iezreel,</hi> 
+               <note place="margin">2 King. 9.32,33.</note> 
+               <hi>Who is one my ſide, who?</hi> The Eunuchs looked out at the win<g ref="char:EOLhyphen"/>dow, and he ſaid, <hi>Throw her down:</hi> and <hi>ſome of her bloud was ſprinkled on the wall, and on
+<pb n="14" facs="tcp:121188:11"/> the horſes, and he trod her under foot;</hi> their executing of Iudgment did evidence their ſiding with <hi>Iehu,</hi> and thoſe in Iſrael, who ſtand for execution of Iuſtice, ſide with the God of Iſrael.</p>
+            <p>
+               <note place="margin" type="runSum">2. Exhorta<g ref="char:EOLhyphen"/>tion</note> 
+               <note place="margin" type="runSum">1. To perſo<g ref="char:EOLhyphen"/>nall executi<g ref="char:EOLhyphen"/>on of judge<g ref="char:EOLhyphen"/>ment.</note> Againe in the next place this exhorts and counſells us to <hi>the execution of Iudg<g ref="char:EOLhyphen"/>ment,</hi> and that firſt <hi>private and perſonall</hi> on our own luſts in our breaſts and boſomes, lying, ſwearing, prophanations of Sab<g ref="char:EOLhyphen"/>baths, breach of Covenants, uncleanneſſe, &amp;c. theſe, theſe are the <hi>Acbans</hi> that trouble Iſrael: <hi>Covetouſneſſe</hi> with her ſelf-ends and aimes, ſeeking great things, even in ſad times, makes up the <hi>wedge of Gold,</hi> and the <hi>Silver, pride in Apparell, naked breaſts,</hi> even in a Day of Humiliation, and that in the ſolemne Congregation (which of late mine eyes have ſeen, and my heart lamen<g ref="char:EOLhyphen"/>ted) <hi>black ſpots</hi> to ſet out beauty, (It is mercy God turnes them not into blew ſpots, tokens of the peſtilence) are as the <hi>babyloniſh garment, accurſed things</hi> in Iſrael; the way to help all were for every man to mortifie his luſts <hi>by that ſpirit of Iudgment
+<pb n="15" facs="tcp:121188:11"/> and of burning, Iſaiah</hi> 4.4. Were our Cor<g ref="char:EOLhyphen"/>ruptions brought forth &amp; arraigned as the malefactors, and by the ſpirit of the Lord adjudged to death, and executed, were our luſts laid on heapes as the fuell, and by the ſpirit of the Lord, as a flame of fire, burnt and conſumed, this were the way to pacify Gods wrath, and remove his judgments: let's not wrangle with Parliament and Ar<g ref="char:EOLhyphen"/>mies, and complaine ſuch a Commander is unfaithfull, ſuch a leading man carryes on his own deſignes, when our luſts at home, our perſonall corruptions are the inlets of all our miſeries; yea the ſinnes of inferiours God oft times puniſheth with ſinfull miſcariages in ſuperiours; the ake<g ref="char:EOLhyphen"/>ing of the head is oft from taking cold in the feet, and the wheeles above in the clock ſtand ſtil, becauſe the plummets below are down; and God gives up <hi>David to a num<g ref="char:EOLhyphen"/>bering of the people, when the anger of the Lord was yet kindled againſt Iſrael:</hi> 
+               <note place="margin">2 Sam. 24.1.</note> holi<g ref="char:EOLhyphen"/>neſſe at home gives victories abroad; <hi>Iacob clenſeth his houſhold from the ſtrange Gods, bids it be cleane,</hi> Gen. 35.2. and <hi>the terrour
+<pb n="16" facs="tcp:121188:12"/> of the Lord was upon the cities round about him, verſ.</hi> 5. <hi>Ioſua</hi> was the man renouned for <hi>victories,</hi> and he is the man that ſaith, <hi>I and my houſe will ſerve the Lord:</hi> 
+               <note place="margin">Ioſh. 24.15.</note> and <hi>Davids</hi> method is firſt to cleanſe his family, and then purge the Kingdom, <hi>He that works de<g ref="char:EOLhyphen"/>ceite ſhall not dwell within my houſe,</hi> Pſal. 101.7. And <hi>then, I will early deſtroy all the wick<g ref="char:EOLhyphen"/>ed of the land, &amp;c. ver.</hi> 8.</p>
+            <p>Secondly, For <hi>publick and nationall</hi> exe<g ref="char:EOLhyphen"/>cutions of judgment, you (my Lords) are ſome of our State-Phyſitians, and King<g ref="char:EOLhyphen"/>dom-Chirurgions, the people bring in co<g ref="char:cmbAbbrStroke">̄</g>plaints, make known their grievances, lay open their ſores, that you might help to heale them; What if County Commit<g ref="char:EOLhyphen"/>tees gall and tire out the people day after day, weeke after weeke, with tedious waitings, and ſorely grieve them with unjuſt taxations? your Honours muſt help to eaſe them; if widows and orphans made ſo by the warres, I may call them ſword widows, and ſword orphans; if a company of poor maimed ſouldiers that once fought for their lives, now beg that
+<pb n="17" facs="tcp:121188:12"/> they may live, (which is neither for the <hi>honour</hi> nor incouragement of Souldiery) (you my Lords) muſt take ſome <hi>order</hi> for the releeving of them; if juſtice, juſtice be cryed for by God and the Kingdome, you are the <hi>Moſeſes</hi> and <hi>Iudges</hi> that muſt ſentence them to the axe, or to the hal<g ref="char:EOLhyphen"/>ter. For the <hi>manner</hi> how, and the <hi>motives why</hi> there ſhould be a due execution of Iu<g ref="char:EOLhyphen"/>ſtice, we may take it in theſe enſuing con<g ref="char:EOLhyphen"/>ſiderations.</p>
+            <p>
+               <note place="margin" type="runSum">
+                  <hi>Modificati<g ref="char:EOLhyphen"/>va.</hi>
+               </note> 
+               <note place="margin" type="runSum">1. Sincerely.</note> For the <hi>manner</hi> firſt, the execution of ju<g ref="char:EOLhyphen"/>ſtice ſhould be <hi>ſincere, ſincerely,</hi> in regard of its <hi>ſprings</hi> &amp; <hi>aymes,</hi> the <hi>ſprings</hi> are <hi>zeal</hi> for God, a <hi>love</hi> of <hi>truth</hi> and <hi>juſtice,</hi> hatred of ſinne, and a deſire of welfare to Church and State; the <hi>ends</hi> ſhould be Gods glo<g ref="char:EOLhyphen"/>ry, the advancing of <hi>truth</hi> and <hi>peace,</hi> ſup<g ref="char:EOLhyphen"/>preſsing of ſinne and errour, reformation and (if it may be) ſalvation to ſuch as fall under the laſh of Iuſtice. <hi>Moſes</hi> grinds to powder the golden Calf, and it was his zeale conſtrained him; <note place="margin">Exod. 32.20.</note> 
+               <hi>Phinehas thruſt Zimri and Cos by through with a javelin,</hi> and
+<pb n="18" facs="tcp:121188:13"/> it was his zeale that fired him thereto; <note place="margin">Numb. 25.30.</note> 
+               <hi>Chriſt whipt the byers and ſellers out of the Temple,</hi> and the reaſon was, the <note place="margin">Ioh. 2.17.</note> 
+               <hi>zeale of his fathers houſe eate him up. Iehu</hi> had a kinde of zeale too, and that in the execu<g ref="char:EOLhyphen"/>tion of judgment upon the houſe of <hi>A<g ref="char:EOLhyphen"/>hab,</hi> 
+               <note place="margin">2 Chron. 22.8.</note> but his eye was upon himſelf, not up<g ref="char:EOLhyphen"/>on the Lord, and for the eſtabliſhing of his own Kingdome, not the Lords, he fail'd in the <hi>ſpring and end</hi> of action, and therefore what he doth is accompted by the Lord not <hi>zeale</hi> but <hi>murther,</hi> and God <hi>threatens</hi> to <hi>avenge the blood of Iezreel upon the houſe of Iehu,</hi> Hoſea 1.4.</p>
+            <p>
+               <note place="margin" type="runSum">2. Magnani<g ref="char:EOLhyphen"/>mous eye.</note> Secondly, Iudgement ſhould be execu<g ref="char:EOLhyphen"/>ted <hi>magnanimiter,</hi> with a reſolution re<g ref="char:EOLhyphen"/>moving all blocks in the way, breaking all barres that hinder Iuſtice.</p>
+            <p>
+               <note place="margin" type="runSum">1. Iron barre.</note> As firſt, an <hi>Iron barre</hi> of fears: The feare of man brings a ſnare; <note place="margin">Prov. 29.25.</note> 
+               <hi>What if the Popiſh</hi> partie ſhould in the end prevaile? It is wiſdome ſo to carry it, that which way ſoever the game goes, we may ſave our own ſtakes: thus reaſons fleſh and blood,
+<pb n="19" facs="tcp:121188:13"/> but faith and zeale ſoone ſnap this barre in ſunder.</p>
+            <p>
+               <note place="margin" type="runSum">2. Golden barre.</note> Secondly, there is a <hi>Golden barre</hi> of <hi>hopes</hi> which hinders Iuſtice; hopes of pre<g ref="char:EOLhyphen"/>ferment, a high prizing of court ſmiles; and promiſes, a gaping for great places, are remora's and lets to the execution of Iuſtice, though the <hi>covenant</hi> engages all that have taken it, not to be ſwayed by <hi>feares</hi> or <hi>hopes,</hi> 
+               <note place="margin">Dan. 11.32.</note> yet that of <hi>Daniel</hi> is the portion of too too many, that <hi>they do wick<g ref="char:EOLhyphen"/>edly againſt the Covenant, and are corrupt by flatteries;</hi> when in the meane time, <hi>the people that know their God ſhall be ſtrong and doe exployts. Themiſtocles</hi> a Heathen may ſhame many a Chriſtian, <note place="margin">
+                  <hi>Tolle tu, ego ſum Themi<g ref="char:EOLhyphen"/>ſtocles.</hi>
+               </note> who finding a chaine of Gold in the ſtreet, would not foule his finger for it; but in an heroick Moralitie of ſpirit ſaith to another, <hi>Take thou it up,</hi> I am <hi>Themiſtocles.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">3. Fleſhie barre.</note> A third is, <hi>a Fleſhy barre</hi> of naturall or civill Relations and Ingagements, Such a man ſhould be puniſhed, but he is my neere Kinſman, my old Companion; An<g ref="char:EOLhyphen"/>other
+<pb n="20" facs="tcp:121188:14"/> deſerves to ſmart for his facts, but a deare friend ſpake for him; in ſuch a caſe remember <hi>Levi, who ſaid unto his father and to his mother, I have not ſeene him, neither did he acknowledge his brethren, nor knew his own children, for they obſerved the word of the Lord and kept his Covenant, Deut.</hi> 33.9. Zeal laid aſide naturall affections in <hi>Levi,</hi> when it put him upon this worke, the ex<g ref="char:EOLhyphen"/>ecution of Iudgement. <hi>Brutus</hi> ſpared not his own ſonnes, when they tranſgreſſed the Lawes. And <hi>Ariſtides</hi> was ſo Con<g ref="char:EOLhyphen"/>ſtant and Reſolute in a way of Iuſtice, <note place="margin">
+                  <hi>Ariſtides. Citius ſolem de coelo, &amp;c.</hi>
+               </note> that the Sunne might as eaſily be pulled out of the firmament, as he from his or be of Iuſtice.</p>
+            <p>
+               <note place="margin" type="runSum">4. Effemi<g ref="char:EOLhyphen"/>nate barre.</note> Laſtly, there is an <hi>Effeminate barre</hi> (if I may ſo phraſe it) of <hi>groundleſſe pitie,</hi> that is an enemy to Iuſtice; pitie is due to men, but Iuſtice to the troublers of Iſrael, and pitie to one, may be crueltie to thouſands. <note place="margin">
+                  <hi>Auguſtine: ſaevit in vul<g ref="char:EOLhyphen"/>nus, ut homo ſanetur; ſi vulnus palpe<g ref="char:EOLhyphen"/>tur, homo perdetur.</hi>
+               </note> The Chirurgion is cruell to the wound, that he may ſave the man, and kindneſſe to a diſeaſe, may prove the death to the
+<pb n="21" facs="tcp:121188:14"/> Patient. <hi>Moſes</hi> was the meekeſt man on earth in his dayes, a man full of pitie, and yet he hangs up many, very many of the heads of the people againſt the Sunne be<g ref="char:EOLhyphen"/>fore the Lord.</p>
+            <p>
+               <note place="margin" type="runSum">3. Speedily,</note> Thirdly, Iudgement muſt be executed <hi>celeriter ſpeedily,</hi> without delayes: <hi>Let Iudgement be ſpeedily executed,</hi> Ezra 7.26. <hi>Execute Iudgement in the morning,</hi> Ier. 21.12. Evening-juſtice, Noon-juſtice, is not ſo ſeaſonable, ſo acceptable to the Lord as Morning-juſtice; delayes break the ſpirits of the innocent, harden the hearts, and ſtrengthen the hands of the guiltie.</p>
+            <p>
+               <note place="margin" type="runSum">4. Proporti<g ref="char:EOLhyphen"/>onably.</note> Fourthly, Iuſtice and judgement ſhould be adminiſtred <hi>proportionaliter,</hi> in a pro<g ref="char:EOLhyphen"/>portion to the nature and degree of crimes and facts, ſometiems <hi>death,</hi> ſometimes <hi>baniſhment,</hi> 
+               <note place="margin">Ezra 7.26.</note> in one caſe <hi>confiſcation of goods,</hi> in another <hi>impriſonment.</hi> I need not minde <hi>your Honours</hi> of a mixture of mercy with juſtice, the Iudges robes, though red, have ſome ſtreamings of white about them; and <hi>David</hi> ſaith, <hi>he will ſing of mercy, of
+<pb n="22" facs="tcp:121188:15"/> Iudgement,</hi> Pſal. 101.1. as occaſion ſerves execute juſtice, and pronounce ſentence yea unto death, though <hi>Auguſtus</hi>-like, you doe it with teares in your eyes.</p>
+            <p>
+               <note place="margin" type="runSum">5. Imparti<g ref="char:EOLhyphen"/>ally.</note> Laſtly, execute judgement <hi>impartiali<g ref="char:EOLhyphen"/>ter,</hi> impartially and throughly, in regard of perſons and things: to hang a poore ſouldier now and then for running from his Colours, who was perhaps afraid of being ſtarved at his Colours, may have a piece of Iuſtice in it, but it was <hi>Sauls ſpa<g ref="char:EOLhyphen"/>ring of Agag,</hi> and <hi>the fat among the flocke, that rent his Kingdome from him, and gave it to his neighbour better then he.</hi> 1 Sam. 15.28. <hi>Salomons</hi> throne was ſupported by Lions, and it is Couragious execution of luſtice, that holds up thrones and kingdomes.</p>
+            <p>
+               <note place="margin" type="runSum">Motives.</note> The <hi>Conſiderations,</hi> inforcing the dutie of executing Iudgement, may be briefly theſe.</p>
+            <p>
+               <note place="margin" type="runSum">Gods Ap<g ref="char:EOLhyphen"/>probation.</note> Firſt, Gods <hi>approbation: Phinehas exe<g ref="char:EOLhyphen"/>cutes Iudgement, and it is accounted to him for righteouſneſſe,</hi> verſ. 31. Faſting, praying, and hearing are good, and execution of
+<pb n="23" facs="tcp:121188:15"/> judgement is good alſo; <note place="margin">1 Sam. 15.</note> 
+               <hi>Sauls obedience</hi> in ſlaying <hi>Agag,</hi> had been <hi>better then his ſa<g ref="char:EOLhyphen"/>crifice.</hi> 
+               <note place="margin">Ioſh. 7.</note> 
+               <hi>Ioſhua rends his cloathes, lyes on his face untill evening,</hi> but all in vaine, whileſt the <hi>accurſed thing remaines in the Camp of Iſrael.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">2. Gods Re<g ref="char:EOLhyphen"/>muneration.</note> Secondly, Conſider Gods <hi>remuneration,</hi> his rewarding thoſe that do execute judg<g ref="char:EOLhyphen"/>ment: the <hi>Lord gives unto Phinehas his co<g ref="char:EOLhyphen"/>venant of peace, and to his ſeed after him, even the covenant of an everlaſting Prieſt<g ref="char:EOLhyphen"/>hood; becauſe he was zealous for his God, and made an atonement for the children of Iſ<g ref="char:EOLhyphen"/>rael,</hi> Numb. 25.12,13. <note place="margin">
+                  <hi>Mol. in loc. Cum De<g ref="char:EOLhyphen"/>us approbet, &amp; praemiis ornet hoc fa<g ref="char:EOLhyphen"/>ctum, exem<g ref="char:EOLhyphen"/>plum hoc om<g ref="char:EOLhyphen"/>nibus guber<g ref="char:EOLhyphen"/>natoribus proponitur, ut iuſto zelo arderent ad<g ref="char:EOLhyphen"/>verſus turpi<g ref="char:EOLhyphen"/>tudinem, &amp;c.</hi>
+               </note> and ſo holds out an example, and incouragement to all in au<g ref="char:EOLhyphen"/>thoritie, to burne with zeale for God a<g ref="char:EOLhyphen"/>gainſt his enemies: God will be no mans debtor, whoever honours him he will honour: and would you <hi>(my Lords)</hi> 
+               <note n="*" place="margin">Exod. 1. alluded to.</note> as the <hi>Hebrew midwives feare God,</hi> and <hi>preſerve the Males</hi> in Iſrael, the Cauſe of God, and of his people, God would <hi>build you Hou<g ref="char:EOLhyphen"/>ſes,</hi> raiſe your Families, and ſpread your Honours.</p>
+            <pb n="24" facs="tcp:121188:16"/>
+            <p>
+               <note place="margin" type="runSum">3. Gods Pacifi<g ref="char:EOLhyphen"/>cation.</note> Thirdly, Execution of Iudgme<g ref="char:cmbAbbrStroke">̄</g>t for God, is the <hi>pacification of wrath in God;</hi> Hence the Lord by the Prophet, <hi>Ier.</hi> 5.1. <hi>Run ye to and fro through the ſtreets of Ieruſalem, and ſee now, and know, and ſeeke in the broad places thereof,</hi> to wit, to the gates where were the Seats of Iuſtice, <hi>if you can finde a man,</hi> (that is) a publique man zealous for God, <hi>if there be any that executeth judg<g ref="char:EOLhyphen"/>ment, and ſeeketh the truth, and I will pardon it.</hi> Whence we may argue thus; If one ſuch man ſaves a Ieruſalem, and that by promiſe, then many ſuch men might ſave a Nation: There is a fire of civill war kindled in <hi>England,</hi> ſtill burning in the bowels of it, and for my part, I thinke there is but two <hi>bloods</hi> will <hi>quench</hi> it, the blood of <hi>Chriſt</hi> and of his deſperate <hi>ene<g ref="char:EOLhyphen"/>mies:</hi> free grace in God hath powred out the one, full Iuſtice in your <hi>Honours</hi> ſhould help to powre out the other. The ſacred Story in the Old Teſtament all a<g ref="char:EOLhyphen"/>long, diſcovers ſinne to be the make-bate, and execution of Iudgement to be the
+<pb n="25" facs="tcp:121188:16"/> make-peace between God and Iſrael; and the judiciall Laws for the policie of the Iewes, however abrogated, yet had they an appendix of morall equitie, and ſo a perpetuall obligation in them.</p>
+            <p>
+               <note place="margin" type="runSum">4. Hopes and feares.</note> Fourthly, <hi>Feares</hi> and <hi>hopes,</hi> ſhould ſpur on to the execution of judgement: <hi>feare</hi> we may, when we remember Gods <hi>curſe</hi> on <hi>Ahab,</hi> who <hi>cryed my brother Benhadad,</hi> the curſe was this, <hi>Becauſe thou haſt let goe out of thy hand, a man whom I appointed to ut<g ref="char:EOLhyphen"/>ter deſtruction, therfore thy life ſhall go for his life, and thy people for his people,</hi> 1 King, 20.42. The ac<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ompliſhment whereof we finde, when the <hi>dogs licked up the blood of Ahab, according to the word of the Lord which he ſpake,</hi> Chap. 22.38. Should the blood<g ref="char:EOLhyphen"/>thirſty enemies break in upon us, and ſpill our blood as water upon the ground, ra<g ref="char:EOLhyphen"/>viſh our wives and daughters, and ſlay our tender infants, before our faces, then would our <hi>lives</hi> goe for <hi>their lives,</hi> and <hi>our people</hi> for <hi>their people.</hi> Probably the way to <hi>ſheath</hi> one ſword were to <hi>draw</hi> another, and if the <hi>ſword of Iuſtice</hi> did more, the
+<pb n="26" facs="tcp:121188:17"/> ſword of <hi>warre</hi> would doe leſſe; the Phy<g ref="char:EOLhyphen"/>ſitian by way of <hi>revulſion</hi> ſtops bleeding by letting bloud; and did <hi>England</hi> bleed enough in the <hi>Malignant veine,</hi> we have cauſe to think that other ſad <hi>Iſſues of blood</hi> would be ſtopt and ſtaunched. And again <hi>hope</hi> we may for peace, for plentie, for all proſperitie, and that by promiſe upon the due execution of Iudgment; <hi>If you through<g ref="char:EOLhyphen"/>ly execute judgement between a man and his neighbour, then will I cauſe you to dwell in this place, in the land that I gave to your fathers for ever and ever, Ier.</hi> 7.5.7. We dwell yet in a Land flowing with milk and ho<g ref="char:EOLhyphen"/>ney, in a healthy and wealthy Nation, gi<g ref="char:EOLhyphen"/>ven to our fathers, let us not looſe <hi>England</hi> for want of Iuſtice.</p>
+            <p>
+               <note place="margin" type="runSum">5. It eviden<g ref="char:EOLhyphen"/>ceth the ſin<g ref="char:EOLhyphen"/>ceritie of de<g ref="char:EOLhyphen"/>votions.</note> Fifthly and laſtly; <hi>All devotions,</hi> yea, <hi>fa<g ref="char:EOLhyphen"/>ſting and praying, are but formall and hypo<g ref="char:EOLhyphen"/>criticall,</hi> without execution of judgement; Hence Gods expoſtulation with the peo<g ref="char:EOLhyphen"/>ple, <hi>Zach.</hi> 7.5. <hi>When you faſted and mourned, did you at all faſt unto me, even unto me?</hi> their faſting was no faſting in Gods accompt, and the reaſon is, becauſe they <hi>did not exe<g ref="char:EOLhyphen"/>cute
+<pb n="27" facs="tcp:121188:17"/> true judgement,</hi> verſ. 9. to faſt and ſet <hi>Naboth</hi> on high, cruſhing the innocent, is <hi>Ieſabeliſh</hi> and deviliſh, to faſt and ſpare <hi>Agags,</hi> our fateſt luſts unmortified, and the great firebrands of State unpuniſhed, is but to play the hypocrite and the Phariſee.</p>
+            <p>
+               <hi>My Lords,</hi> we are caſt upon troublous times, which are trying times, and as <hi>Hie<g ref="char:EOLhyphen"/>rom</hi> ſaith of <hi>Iob,</hi> 
+               <note place="margin">
+                  <hi>Hier. Haec ei contigerunt, ut appareret foris homini<g ref="char:EOLhyphen"/>bus, quod in<g ref="char:EOLhyphen"/>trinſecus erat apud Deum.</hi>
+               </note> all thoſe evils befell him, that he might appeare to be outwardly to men, what he was inwardly to God, ſo the Lord goes on in ſuch a way of provi<g ref="char:EOLhyphen"/>dence, as that the thoughts of many hearts will be diſcovered, and it will appeare who are for God, and who for <hi>Baal.</hi> It is <hi>ſad</hi> to thinke how ſome renowned Wor<g ref="char:EOLhyphen"/>thies, <note place="margin">L. <hi>Brooke,</hi> M<hi rend="sup">r</hi>. <hi>Hamden,</hi> &amp;c.</note> who travelled with your <hi>Honours</hi> in this worke of Reformation, have layed down their lives in the quarrell; it is <hi>ſadder</hi> yet to ſee that others like the <note place="margin">Neh. 3.5.</note> 
+               <hi>Nobles of Te<g ref="char:EOLhyphen"/>coa have not put their necks to the worke of the Lord;</hi> Nay, their heads, hearts, and hands, their lands, and their lives are layed out againſt the Lord, and againſt his cauſe; yet ride you on patiently <hi>(ye men of Honor)</hi>
+               <pb n="28" facs="tcp:121188:18"/> gird your ſwords upon your thighes, <hi>ex<g ref="char:EOLhyphen"/>ecute judgement in the feare of the Lord faithfully, and with a perfect heart;</hi> ſo God did command the Levites, 2 <hi>Chron.</hi> 19.9. Go on not in your own names or ſtrength, but in the name and ſtrength of the Lord your God; let there be a holy ambition, and a pious emulation among you, to be each more active, more helpfull then other for the building of the walles, yea, the Temple of Ieruſalem, for ſetling the af<g ref="char:EOLhyphen"/>faires of State and Church, and in the things of God, his worſhip and Church<g ref="char:EOLhyphen"/>government be not ſwayed by ſubtle inſi<g ref="char:EOLhyphen"/>nuations, ſeeming holineſſe, perſonall pre<g ref="char:EOLhyphen"/>engagements or popular politick Argu<g ref="char:EOLhyphen"/>ments on the one ſide, or on the other, but what ſhall be found to have Gods <hi>Royall ſtamp</hi> of <hi>Ius Divinum,</hi> be it <hi>Formaliter,</hi> by expreſſe precept, or conſtant Apoſtolicall practice, or <hi>conſequeutive</hi> only, by a neceſ<g ref="char:EOLhyphen"/>ſitie of rationall deduction, feare not to give it your <hi>politicall ſtamp of civill ſanction, whatſoever is commanded by the God of hea<g ref="char:EOLhyphen"/>ven, let it be diligently done, for the houſe of
+<pb n="29" facs="tcp:121188:18"/> the God of heaven,</hi> Ezra 7.23. Your ene<g ref="char:EOLhyphen"/>mies are engaged, and you had need be re<g ref="char:EOLhyphen"/>ſolute, your <hi>Arke</hi> and their <hi>Dagon</hi> will ſcarce ſtand together, and in probabilitie, either your ſword muſt cut down them, or theirs you; <hi>ſhould you hold your peace,</hi> and ſtay in the cauſe, yet (as <hi>Mordecai</hi> to <hi>He<g ref="char:EOLhyphen"/>ſter</hi>) <hi>deliverance ſhall come from ſome other place, but you and your fathers houſes ſhall be deſtroyed,</hi> and <hi>who knowes whether God hath not reſerved you in the Kingdome for ſuch a time as this?</hi> 
+               <note place="margin">Heſt. 4.14.</note> The Kingdome, nay the three kingdomes upon the point have much what entruſted <hi>your Honours</hi> with their lands, liberties, lives, and ſouls alſo; yea, with all that concernes them and their po<g ref="char:EOLhyphen"/>ſterities, therefore be <hi>faithfull to the death,</hi> and the <hi>Lord of Lords ſhall give you the crowne of Life.</hi> I beſeech you execute judgement, as you will anſwer it at the Day of Iudgement.</p>
+            <p>And now could I lift up my voyce as a trumpet, had I the ſhrill cry of an angell, which might be heard from Eaſt, to Weſt,
+<pb n="30" facs="tcp:121188:19"/> from North to South, in all the corners of the Kingdome, my <hi>note</hi> ſhould be, <hi>exe<g ref="char:EOLhyphen"/>cution of judgement, execution of judge<g ref="char:EOLhyphen"/>ment, execution of judgement,</hi> that is Gods way to pacifie Gods wrath; <hi>Then ſtood up Phinehas and executed judge ment, and ſo the plague was ſtayed.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:121188:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
